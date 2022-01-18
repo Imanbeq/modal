@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+}
+
+.text{
+    margin-top: 15px;
+    display: none;
+}
+
+.ok{
+    margin-right: 60px;
+}
